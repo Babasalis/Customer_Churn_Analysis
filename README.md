@@ -26,5 +26,4 @@ The analysis focuses on answering the following business questions:
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
 * Jupyter Notebook
